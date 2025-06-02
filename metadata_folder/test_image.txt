@@ -1,1 +1,6 @@
-
+section_header: Lifestyle Photography
+above_text: This image captures a moment from a daily life scenario.
+caption: A man holding a red apple.
+picture_id: #/pictures/1
+footnote: Image sourced from a public dataset.
+below_text: Refer to Section 2 for more details on lifestyle imagery.
