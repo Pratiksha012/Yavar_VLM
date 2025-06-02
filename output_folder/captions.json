@@ -1,1 +1,24 @@
-
+{
+    "test_image.jpg": {
+        "concise_caption": {
+            "caption": "Summary of Section: Lifestyle Photography Above: This image captures a moment from a daily life scenario. Below: Refer to Section 2 for more details on lifestyle imagery. Footnote: Image sourced from a public dataset..",
+            "confidence": 0.17647626996040344
+        },
+        "detailed_caption": {
+            "caption": "Detailed description: Section: Lifestyle Photography Above: This image captures a moment from a daily life scenario. Below: Refer to Section 2 for more details on lifestyle imagery. Footnote: Image sourced from a public dataset..",
+            "confidence": 0.1588286429643631
+        },
+        "evaluation": {
+            "concise": {
+                "bleu": 7.544641259221007e-232,
+                "rouge1": 0.1,
+                "rougeL": 0.1
+            },
+            "detailed": {
+                "bleu": 7.544641259221007e-232,
+                "rouge1": 0.1,
+                "rougeL": 0.1
+            }
+        }
+    }
+}
